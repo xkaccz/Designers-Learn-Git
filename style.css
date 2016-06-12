@@ -1,0 +1,187 @@
+/* CSS Document */
+*{margin: 0; 
+	padding: 0; 
+	font-size: 1em; 
+	font-family: Verdana, Geneva, sans-serif, "宋体";	
+	list-style: none;
+}
+a{text-decoration: none;
+}
+
+.head{width: 100%;
+	background: #1F2229;
+	overflow: hidden;
+}
+.header{width: 1100px;
+    margin: 5px auto 0;
+    overflow: hidden;
+
+}
+.logo{width: 30%;
+	float: left;
+}
+.nav ul{width: 70%;
+    overflow: hidden;
+}
+.nav li{float: right;
+	margin: 0 15px;
+	padding-right: 30px;
+	line-height: 56px;
+}
+.nav li a{color: #FBFCFD;
+	font-size: 0.9em;
+}
+.nav li a:hover{color: #7F5618;
+	border-bottom: 1px solid #F31D10;
+}
+.wrap{width: 1100px;
+	margin: 0 auto;
+    overflow: hidden;
+}
+.contact{width: 100%;
+	text-align: center;
+}
+.contact h1{font-family: Impact;
+    font-size: 1.8em;
+    color: #43B4FD;
+
+}
+.contact h1 span{color: #7B7A7A;
+}
+.contact h4{color: #BDB9B9;
+	margin-bottom: 12px;
+}
+.contact h2{font-family: 微软雅黑;
+	font-size: 1.4em;
+}
+.contact p{color: #9C9C9C;
+	font-size: 0.85em;
+	line-height: 1.6em;
+}
+.way{width: 100%;
+	margin-top: 15px;
+	text-align: center;
+    overflow: hidden;
+    
+}
+.way_1,.way_2{margin: 0 55px;
+	float: left;
+}
+.way_3,.way_4{margin: 0 55px;
+	float: right;
+}
+h2{font-size: 1.2em;
+    font-family: 微软雅黑;
+    color: #4B4B4B;
+}
+.way_1 p{font-size: 0.9em;
+    font-family: 微软雅黑;
+    color: #B1B1B1;
+}
+.way_2 p{font-size: 0.9em;
+    font-family: 微软雅黑;
+    color: #B1B1B1;
+}
+.way_3 p{font-size: 0.9em;
+    font-family: 微软雅黑;
+    color: #B1B1B1;
+}
+.way_4 p{font-size: 0.9em;
+    font-family: 微软雅黑;
+    color: #B1B1B1;
+}
+.content{width: 100%;
+	height: 550px;
+    margin-top: 10px;
+    background: #0273B7;
+    text-align: center;
+    overflow: hidden;
+}
+.case{width: 1100px;
+    margin: 5px auto 5px;
+    overflow: hidden;
+}
+.case_top{margin-bottom: 10px;}
+.case_top h1{font-family: Impact;
+    font-size: 1.8em;
+    color: #FDFDFD;
+}
+.case_top h1 span{color: #E3AD43;}
+}
+.case_middle{text-align: none;
+}
+.case_middle li{float: left;
+	margin: 15px 15px;
+}
+.newscenter{width: 1100px;
+	margin: 5px auto;
+}
+.newscenter_top{width: 100%;
+	text-align: center;
+}
+.newscenter h2{font-size: 1.8em;
+	font-family: Impact;
+	color: #838383;
+}
+.newscenter h2 span{color: #53B9FF;
+}
+.newcenter_footer{width: 100%;
+	overflow: hidden;
+}
+.newscenter_footer_1{width: 50%;
+	float: left;}
+.newscenter_footer_1 img{float: left;
+	margin-right: 5px;
+}
+.newscenter_footer_2{width:50%;
+	float: right;}
+.newscenter_footer_2 img{float: left;
+	margin-right: 5px;
+}
+.newscenter_footer h3{font-family: 微软雅黑;
+    font-size:0.95em; 
+} 
+.newscenter_footer p{font-family: 微软雅黑;
+	font-size:0.8em; 
+}
+.newscenter_footer_3{width: 50%;
+	margin-top: 45px;
+	float: left;}
+.newscenter_footer_3 img{float: left;
+	margin-right: 5px;
+}
+.newscenter_footer_4{width:50%;
+	margin-top: 45px;
+	float: right;}
+.newscenter_footer_4 img{float: left;
+	margin-right: 5px;
+	margin-bottom: 45px;
+}
+
+.foot{width: 100%;
+	margin: 10px auto 0;
+	overflow: hidden;
+	background: #30333A;
+}
+.view{width: 1100px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.cell{width: 100%;
+	margin: 0 10px;
+	
+}
+.tell{color: #FCFCFE;
+	font-size: 0.9em;
+	font-family: 微软雅黑;
+	margin-bottom: 5px;
+	padding-left: 18px;
+	background: url(../images/cell.png) no-repeat;
+}
+.cell img{float: left;
+}
+.con{background: url(../images/contact.png) no-repeat;
+	padding-left: 25px;
+    float: right;
+}
+
